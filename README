@@ -1,0 +1,33 @@
+= fluid-blue
+
+== Description
+
+A theme for Wordpress. Compatible with Wordpress 2.7. See it in action at http://www.lunar-ocean.com
+
+Original work by Srini: http://srinig.com/wordpress/themes/fluid-blue/ forked by Antoine Toulme mostly for his own use. 
+Please donate to Srini if you like this theme.
+
+== Installation
+
+Download and place in your blog wp-content/plugins/fluid-blue folder.
+
+== License
+
+Copyright (C) 2008 Srini.
+Copyright (C) 2009 Antoine Toulme
+
+fluid-blue is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+fluid-blue is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with fluid-blue.  If not, see <http://www.gnu.org/licenses/>.
+
+
+
