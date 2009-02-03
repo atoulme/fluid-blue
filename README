@@ -7,9 +7,25 @@ A theme for Wordpress. Compatible with Wordpress 2.7. See it in action at http:/
 Original work by Srini: http://srinig.com/wordpress/themes/fluid-blue/ forked by Antoine Toulme mostly for his own use. 
 Please donate to Srini if you like this theme.
 
+== Features
+* Fluid width
+* Two columns
+* Right sidebar
+* Supports nested comments, comments paging, sidebar widgets, post tags and gravatars
+* Compatible upto WordPress version 2.7
+* XHTML and CSS validated
+* Graphics free design
+
 == Installation
 
-Download and place in your blog wp-content/plugins/fluid-blue folder.
+Installation:
+* Extract the fluid-blue.zip file in a convenient location
+* Copy the 'fluid-blue' folder to '/wp-content/themes/' directory in your web server.
+* Log in to the WordPress Administration Panels
+* Select the 'Appearance' (or 'Design') menu.
+* Select the Fluid Blue theme from the available list of themes to preview
+* Activate the theme.
+* Click 'View Site' at the top of the Panel's screen. Your selection should immediately become active.
 
 == License
 

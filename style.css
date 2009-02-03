@@ -16,8 +16,8 @@ body {
 	margin:0;
 	background:#fff;
 	color:#444;
-	font-size: 62.5%; /* Resets 1em to 10px */
-	font-family: 'Lucida Grande', Verdana, Arial, Sans-Serif;
+	font-size: 75%;
+	font-family:arial,sans-serif;
 	text-align:center;
 }
 
@@ -164,8 +164,8 @@ code {
 
 /* Top navigation */
 #navbar {
-	border-top:0.1em solid #555;
-	border-bottom:0.1em solid #555;
+	/*border-top:0.1em solid #555;
+	border-bottom:0.1em solid #555;*/
 	background:#165279;
 	height: 2.3em;
 	margin: 0px;
@@ -191,15 +191,13 @@ code {
 	color:#c6c8c9;
 	display: block;
     font-weight: bold;
-	padding: 0.5em;
 	}
 	
 #nav a:hover {
-	background: #237ab2;
-	color: #fff;
+	color: #237ab2;
+	background: #fff;
 	display: block;
 	text-decoration: none;
-	padding: 0.5em;
 }
 
 #nav li {

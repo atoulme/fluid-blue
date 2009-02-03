@@ -31,7 +31,6 @@
 
 <div id="navbar">
 <ul id="nav">
-	<li><a href="<?php echo get_settings('home'); ?>"><?php _e('Home') ?></a></li>
 	<?php wp_list_pages('title_li=&depth=2&sort_column=menu_order') ?>
 </ul>
 </div>
