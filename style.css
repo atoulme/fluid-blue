@@ -211,6 +211,12 @@ code {
 	background: #ffa500;
 }
 
+#nav li.page-item-128:hover a {
+	color: #000;
+	background: #fff;
+	text-decoration: none;
+}
+
 /* Sidebar */
 
 
