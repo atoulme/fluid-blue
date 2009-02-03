@@ -204,8 +204,8 @@ code {
 	padding: 0;
 }
 
-#nav li #page-item-128 {
-	color: #ffa500;
+#nav li .page-item-128 {
+	background: #ffa500;
 }
 
 /* Sidebar */
