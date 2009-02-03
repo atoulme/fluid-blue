@@ -83,8 +83,8 @@ code {
 }
 
 #wrapper {
-	margin:0 5%;
-	padding-right:10px;
+	margin:0;
+	padding-right:200px;
 }
 
 #content{
@@ -211,7 +211,7 @@ code {
 	background: #ffa500;
 }
 
-#nav li:hover.page-item-128 a {
+#nav li.page-item-128:hover a {
 	color: #000;
 	background: #fff;
 	text-decoration: none;
