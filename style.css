@@ -201,6 +201,12 @@ code {
 	text-decoration: none;
 }
 
+#nav li:hover a {
+	color: #000;
+	background: #fff;
+	text-decoration: none;
+}
+
 #nav li.page-item-128 {
 	background: #ffa500;
 }
