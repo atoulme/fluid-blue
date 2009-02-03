@@ -181,7 +181,6 @@ code {
 	}
 	
 #nav ul {
-	padding:0.1em 0 0 0;
 	margin:0;
 	list-style: none;
 	background:transparent;
@@ -189,7 +188,6 @@ code {
 
 #nav a {
 	color:#fff;
-	display: block;
     font-weight: bold;
 	}
 	
@@ -204,7 +202,8 @@ code {
 	float: left;
 	margin: 0;
 	text-transform:uppercase;
-	padding: 0 2em 0 0;
+	display: inline;
+	line-height:200%;
 }
 	
 #nav li li {
@@ -216,7 +215,7 @@ code {
 	
 #nav li li a, #nav li li a:link, #nav li li a:visited {
 	background: #165279;
-	color: #c6c8c9;;
+	color: #c6c8c9;
 	float: none;
 	margin: 0;
 	border-bottom: 1px solid #aaa;
