@@ -175,13 +175,11 @@ code {
 
 	
 #nav {
-	margin:0 5%;
 	padding: 0;
 	list-style: none;
 	}
 	
 #nav ul {
-	margin:0;
 	list-style: none;
 	background:transparent;
 	}
@@ -200,16 +198,14 @@ code {
 
 #nav li {
 	float: left;
-	margin: 0;
 	text-transform:uppercase;
 	display: inline;
 	line-height:200%;
+	margin-left: 5px;
 }
 	
 #nav li li {
 	float: left;
-	margin: 0;
-	padding: 0;
 	width: 14em;
 	}
 	
@@ -217,8 +213,6 @@ code {
 	background: #165279;
 	color: #c6c8c9;
 	float: none;
-	margin: 0;
-	border-bottom: 1px solid #aaa;
 	}
 	
 #nav li li a:hover, #nav li li a:active {
@@ -234,7 +228,7 @@ code {
 
 #nav li:hover ul {
 	left: auto;
-	display: block;
+	display: inline;
 	}
 	
 #nav li:hover ul, #nav li.sfhover ul {
