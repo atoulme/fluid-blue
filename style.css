@@ -188,9 +188,9 @@ code {
 	}
 	
 #nav a:hover {
-	color: #fff;
-	background: #000;
-	display: block;
+	color: #000;
+	background: #fff;
+	display: inline;
 	text-decoration: none;
 }
 
