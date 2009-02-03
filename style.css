@@ -90,16 +90,16 @@ code {
 #content{
 	float:left;
 	width:96%;
-	border-right:230px solid #eee;
-	margin-right:-230px;
-	padding:20px 4% 20px 0;
+	border-right:200px solid #eee;
+	margin-right:-200px;
+	padding:10px 4% 0px 0;
 }
 
 #sidebar{
 	float:left;
 	width:190px;
-	margin:0 -230px 0 0;
-	padding:20px;
+	margin:0 -200px 0 0;
+	padding-left:10px;
 	background:#eee;
 }
 
@@ -192,6 +192,8 @@ code {
 	background: #fff;
 	display: inline;
 	text-decoration: none;
+	margin: 0;
+	padding: 0;
 }
 
 #nav li {
@@ -200,6 +202,7 @@ code {
 	display: inline;
 	line-height:200%;
 	margin-left: 1%;
+	padding: 0;
 }
 
 /* Sidebar */
