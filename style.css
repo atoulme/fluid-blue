@@ -188,7 +188,7 @@ code {
 	}
 
 #nav a {
-	color:#c6c8c9;
+	color:#fff;
 	display: block;
     font-weight: bold;
 	}
@@ -217,10 +217,8 @@ code {
 #nav li li a, #nav li li a:link, #nav li li a:visited {
 	background: #165279;
 	color: #c6c8c9;;
-	width: 14em;
 	float: none;
 	margin: 0;
-	padding: 0.5em ;
 	border-bottom: 1px solid #aaa;
 	}
 	
