@@ -84,7 +84,7 @@ code {
 
 #wrapper {
 	margin:0 5%;
-	padding-right:230px;
+	padding-right:10px;
 }
 
 #content{
@@ -164,10 +164,9 @@ code {
 
 /* Top navigation */
 #navbar {
-	/*border-top:0.1em solid #555;
-	border-bottom:0.1em solid #555;*/
 	background:#000;
 	height: 2em;
+	margin-top:-1em;
 }
 
 
