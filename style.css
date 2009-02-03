@@ -182,20 +182,12 @@ code {
 	}
 
 #nav a {
-	color:#fff;
     font-weight: bold;
 	line-height: 200%;
-	}
-	
-#nav a:hover {
-	color: #000;
-	background: #fff;
-	text-decoration: none;
-	margin: 0;
-	padding: 0;
 }
 
 #nav li {
+	color:#fff;
 	float: left;
 	text-transform:uppercase;
 	line-height:200%;
