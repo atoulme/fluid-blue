@@ -203,6 +203,14 @@ code {
 	padding-right: 1%;
 }
 
+#nav li:hover {
+	color: #000;
+	background: #fff;
+	text-decoration: none;
+	margin: 0;
+	padding: 0;
+}
+
 #nav li.page-item-128 {
 	background: #ffa500;
 }
