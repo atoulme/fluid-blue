@@ -166,10 +166,8 @@ code {
 #navbar {
 	/*border-top:0.1em solid #555;
 	border-bottom:0.1em solid #555;*/
-	background:#165279;
+	background:#000;
 	height: 2em;
-	margin: 0px;
-	padding: 0px ;
 }
 
 
@@ -190,8 +188,8 @@ code {
 	}
 	
 #nav a:hover {
-	color: #237ab2;
-	background: #fff;
+	color: #fff;
+	background: #000;
 	display: block;
 	text-decoration: none;
 }
@@ -201,40 +199,8 @@ code {
 	text-transform:uppercase;
 	display: inline;
 	line-height:200%;
-	margin-left: 5px;
+	margin-left: 1%;
 }
-	
-#nav li li {
-	float: left;
-	width: 14em;
-	}
-	
-#nav li li a, #nav li li a:link, #nav li li a:visited {
-	background: #165279;
-	color: #c6c8c9;
-	float: none;
-	}
-	
-#nav li li a:hover, #nav li li a:active {
-	background: #237ab2;
-	color: #fff;
-	}
-
-#nav li ul {
-	position: absolute;
-	width: 10em;
-	left: -999em;
-	}
-
-#nav li:hover ul {
-	left: auto;
-	display: inline;
-	}
-	
-#nav li:hover ul, #nav li.sfhover ul {
-	left: auto;
-	}
-
 
 /* Sidebar */
 
