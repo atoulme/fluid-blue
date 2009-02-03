@@ -83,7 +83,8 @@ code {
 }
 
 #wrapper {
-	margin:0;
+	margin-right: 5px;
+	margin-left: 5px;
 	padding-right:200px;
 }
 
