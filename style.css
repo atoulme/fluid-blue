@@ -184,12 +184,12 @@ code {
 #nav a {
 	color:#fff;
     font-weight: bold;
+	line-height: 200%;
 	}
 	
 #nav a:hover {
 	color: #000;
 	background: #fff;
-	display: inline;
 	text-decoration: none;
 	margin: 0;
 	padding: 0;
@@ -198,10 +198,9 @@ code {
 #nav li {
 	float: left;
 	text-transform:uppercase;
-	display: inline;
 	line-height:200%;
-	margin-left: 1%;
-	padding: 0;
+	padding-left: 1%;
+	padding-right: 1%;
 }
 
 #nav li.page-item-128 {
